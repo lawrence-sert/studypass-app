@@ -1,0 +1,7 @@
+{
+  "name": "studypass-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
